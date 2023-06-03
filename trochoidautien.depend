@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685783169 source:f:\week0project\trochoidautien\main.c
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+	"math.h"
+
